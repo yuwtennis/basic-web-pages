@@ -8,3 +8,11 @@ h1, h2, h3, h4, h5, h6 {
   /* Load fonts from the left most */
   font-family: "Helvetica", "Arial", sans-serif;
 }
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: lower-roman;
+}
