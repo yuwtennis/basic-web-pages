@@ -19,7 +19,7 @@ From [Interneting is hard](https://internetingishard.com/) .  However, as for 20
 
 From [Learn web development](https://developer.mozilla.org/en-US/docs/Learn).
 
-* [mdn-learn-web-dev](mdn-learn-web-dev)
+* [mdn-learn-web-dev](mdn-structuring-the-web)
 
 ## Learning basics of React
 
